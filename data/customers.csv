@@ -1,0 +1,26 @@
+﻿customer_id,customer_name,monthly_income,monthly_expenses,emergency_savings,current_annual_premium,expected_claims_per_year,average_claim_amount,risk_preference,insurance_type
+P001,Aarav Sharma,48100,27898,57000,12650,0.5,33400,Medium,Property
+P002,Diya Patil,51200,32768,79000,13300,0.8,36800,High,Health
+P003,Rohan Mehta,54300,38010,101000,13950,1.2,40200,Low,Motor
+P004,Ananya Iyer,57400,29848,123000,14600,1.6,43600,Medium,Property
+P005,Kabir Singh,60500,35090,145000,15250,0.2,47000,High,Health
+P006,Ishita Kulkarni,63600,40704,167000,15900,0.5,50400,Low,Motor
+P007,Vivaan Joshi,66700,46690,189000,16550,0.8,53800,Medium,Property
+P008,Meera Nair,69800,36296,211000,17200,1.2,57200,High,Health
+P009,Arjun Desai,72900,42282,233000,17850,1.6,60600,Low,Motor
+P010,Saanvi Rao,76000,48640,255000,18500,0.2,64000,Medium,Property
+P011,Aditya Verma,79100,55370,277000,19150,0.5,67400,High,Health
+P012,Nisha Jadhav,82200,42744,299000,19800,0.8,70800,Low,Motor
+P013,Reyansh Gupta,85300,49474,321000,20450,1.2,74200,Medium,Property
+P014,Aisha Khan,88400,56576,343000,21100,1.6,77600,High,Health
+P015,Dhruv Malhotra,91500,64049,365000,21750,0.2,81000,Low,Motor
+P016,Myra Chavan,94600,49192,387000,22400,0.5,84400,Medium,Property
+P017,Atharv More,97700,56666,409000,23050,0.8,87800,High,Health
+P018,Sara Fernandes,100800,64512,431000,23700,1.2,91200,Low,Motor
+P019,Krish Pawar,103900,72730,453000,24350,1.6,94600,Medium,Property
+P020,Riya Shah,107000,55640,475000,25000,0.2,98000,High,Health
+P021,Omkar Bhosale,110100,63858,497000,25650,0.5,101400,Low,Motor
+P022,Tanvi Gokhale,113200,72448,519000,26300,0.8,104800,Medium,Property
+P023,Neil Dsouza,116300,81410,541000,26950,1.2,108200,High,Health
+P024,Pooja Reddy,119400,62088,563000,27600,1.6,111600,Low,Motor
+P025,Yash Thakur,122500,71050,585000,28250,0.2,115000,Medium,Property

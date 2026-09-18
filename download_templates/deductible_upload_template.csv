@@ -1,0 +1,2 @@
+﻿option_id,insurance_type,deductible,premium_discount_pct,risk_level,active
+D101,Motor,5000,10,Medium,Yes

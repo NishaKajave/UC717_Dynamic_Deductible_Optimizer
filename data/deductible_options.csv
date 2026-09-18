@@ -1,0 +1,16 @@
+﻿option_id,insurance_type,deductible,premium_discount_pct,risk_level,active
+D001,Motor,1000,0,Prototype,Yes
+D002,Motor,2500,5,Prototype,Yes
+D003,Motor,5000,10,Prototype,Yes
+D004,Motor,10000,17,Prototype,Yes
+D005,Motor,20000,25,Prototype,Yes
+D006,Property,2000,0,Prototype,Yes
+D007,Property,5000,6,Prototype,Yes
+D008,Property,10000,12,Prototype,Yes
+D009,Property,25000,20,Prototype,Yes
+D010,Property,50000,28,Prototype,Yes
+D011,Health,1000,0,Prototype,Yes
+D012,Health,3000,4,Prototype,Yes
+D013,Health,5000,8,Prototype,Yes
+D014,Health,10000,14,Prototype,Yes
+D015,Health,15000,20,Prototype,Yes

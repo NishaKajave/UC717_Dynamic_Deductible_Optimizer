@@ -1,0 +1,2 @@
+﻿customer_id,customer_name,monthly_income,monthly_expenses,emergency_savings,current_annual_premium,expected_claims_per_year,average_claim_amount,risk_preference,insurance_type
+U001,Sample Customer,65000,40000,150000,16000,0.5,45000,Medium,Motor

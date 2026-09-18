@@ -1,0 +1,26 @@
+﻿customer_id,customer_name,monthly_income,monthly_expenses,emergency_savings,current_annual_premium,expected_claims_per_year,average_claim_amount,risk_preference,insurance_type
+U001,Advait Menon,48100,27898,57000,12650,0.5,33400,Medium,Property
+U002,Kavya Suresh,51200,32768,79000,13300,0.8,36800,High,Health
+U003,Manav Kapoor,54300,38010,101000,13950,1.2,40200,Low,Motor
+U004,Prisha Banerjee,57400,29848,123000,14600,1.6,43600,Medium,Property
+U005,Arnav Shetty,60500,35090,145000,15250,0.2,47000,High,Health
+U006,Kiara Pillai,63600,40704,167000,15900,0.5,50400,Low,Motor
+U007,Siddharth Bose,66700,46690,189000,16550,0.8,53800,Medium,Property
+U008,Navya Naik,69800,36296,211000,17200,1.2,57200,High,Health
+U009,Harsh Vora,72900,42282,233000,17850,1.6,60600,Low,Motor
+U010,Tara Mishra,76000,48640,255000,18500,0.2,64000,Medium,Property
+U011,Vedant Soman,79100,55370,277000,19150,0.5,67400,High,Health
+U012,Siya Arora,82200,42744,299000,19800,0.8,70800,Low,Motor
+U013,Nakul Bhat,85300,49474,321000,20450,1.2,74200,Medium,Property
+U014,Amaira Kaur,88400,56576,343000,21100,1.6,77600,High,Health
+U015,Parth Saxena,91500,64049,365000,21750,0.2,81000,Low,Motor
+U016,Ira Mukherjee,94600,49192,387000,22400,0.5,84400,Medium,Property
+U017,Laksh Salvi,97700,56666,409000,23050,0.8,87800,High,Health
+U018,Avni Thomas,100800,64512,431000,23700,1.2,91200,Low,Motor
+U019,Shaurya Anand,103900,72730,453000,24350,1.6,94600,Medium,Property
+U020,Mahi Dubey,107000,55640,475000,25000,0.2,98000,High,Health
+U021,Rudra Kamath,110100,63858,497000,25650,0.5,101400,Low,Motor
+U022,Zara Contractor,113200,72448,519000,26300,0.8,104800,Medium,Property
+U023,Dev Purohit,116300,81410,541000,26950,1.2,108200,High,Health
+U024,Inaya Krishnan,119400,62088,563000,27600,1.6,111600,Low,Motor
+U025,Ayaan Lobo,122500,71050,585000,28250,0.2,115000,Medium,Property
